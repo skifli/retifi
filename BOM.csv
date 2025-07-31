@@ -1,0 +1,23 @@
+Component,Description,Notes,Quantity,Price,Shipping,Provider,Link
+Headers,,For screen because it doesnt specify coming with some and I am taking zilch chances,1,£1.08,,AliExpress,https://www.aliexpress.com/item/4000988113226.html?spm=a2g0o.cart.0.0.2f3538daCbb432&mp=1&pdp_npi=5%40dis%21GBP%21GBP%201.08%21GBP%201.08%21%21GBP%201.08%21%21%21%40210385bb17539668072041969ef01d%2110000013202368850%21ct%21UK%21-1%21%211%210
+JST PH 2.00mm,PH 2.00mm,To connect the buttons to the PCB,1,£2.25,,,https://www.aliexpress.com/item/1005007691949301.html?spm=a2g0o.cart.0.0.2f3538daCbb432&mp=1&pdp_npi=5%40dis%21GBP%21GBP%202.25%21GBP%202.25%21%21GBP%202.25%21%21%21%40210385bb17539668072041969ef01d%2112000041868201997%21ct%21UK%21-1%21%211%210&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22pdpBusinessMode%22%3A%22retail%22%7D%7D
+Momentary Push Button,Red 5PCS,The actual button,1,£3.23,,,https://www.aliexpress.com/item/1005008498887267.html?spm=a2g0o.cart.0.0.2f3538daCbb432&mp=1&pdp_npi=5%40dis%21GBP%21GBP%203.23%21GBP%203.23%21%21GBP%203.23%21%21%21%40210385bb17539668072041969ef01d%2112000045421821720%21ct%21UK%21-1%21%211%210
+Heat Shrink Tube,Mixed size,Heat around the joint for the button to the switch,1,£1.35,,,https://www.aliexpress.com/item/1005008146302901.html?spm=a2g0o.cart.0.0.2f3538daCbb432&mp=1&pdp_npi=5%40dis%21GBP%21GBP%201.35%21GBP%201.35%21%21GBP%201.35%21%21%21%40210385bb17539668072041969ef01d%2112000043985559291%21ct%21UK%21-1%21%211%210
+Slide Switch,k014a004-G3,"Switching it up here, eh? Lol ok thats enough bad jokes for a day ;-;",1,£2.09,,,https://www.aliexpress.com/item/1005008904067609.html?spm=a2g0o.cart.0.0.2f3538daCbb432&mp=1&pdp_npi=5%40dis%21GBP%21GBP%202.09%21GBP%202.01%21%21GBP%202.01%21%21%21%40211b612517539803432976136ea9fd%2112000047164202631%21ct%21UK%21-1%21%211%210
+Nice nano,But cheaaaper,Teeheehee,1,£2.21,,,https://www.aliexpress.com/item/1005007383270623.html?spm=a2g0o.cart.0.0.2f3538daCbb432&mp=1&pdp_npi=5%40dis%21GBP%21GBP%202.21%21GBP%200.77%21%21GBP%200.77%21%21%21%40211b612517539803432976136ea9fd%2112000047100969961%21ct%21UK%21-1%21%211%210
+OLED,2.42 I2C,,1,£9.79,,,https://www.aliexpress.com/item/1005008741364067.html?spm=a2g0o.cart.0.0.2f3538daCbb432&mp=1&pdp_npi=5%40dis%21GBP%21GBP%2020.40%21GBP%209.79%21%21GBP%209.79%21%21%21%40211b612517539803432976136ea9fd%2112000046477233220%21ct%21UK%21-1%21%211%210
+Micro JST,Male 5 Pcs 100mm,https://learn.adafruit.com/on-slash-off-switches/overview,1,£0.50,£1.97,,https://www.aliexpress.com/item/1005008864177105.html?spm=a2g0o.cart.0.0.2f3538daCbb432&mp=1&pdp_npi=5%40dis%21GBP%21GBP%200.50%21GBP%200.48%21%21GBP%200.48%21%21%21%40211b612517539804569748830ea9fd%2112000047004685342%21ct%21UK%21-1%21%211%210&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22pdpBusinessMode%22%3A%22retail%22%7D%7D
+Micro JST,Male 5 Pcs 100mm,https://learn.adafruit.com/on-slash-off-switches/overview,1,£0.34,£1.97,,https://www.aliexpress.com/item/1005008864177105.html?spm=a2g0o.cart.0.0.2f3538daCbb432&mp=1&pdp_npi=5%40dis%21GBP%21GBP%200.34%21GBP%200.32%21%21GBP%200.32%21%21%21%40211b612517539804569748830ea9fd%2112000047004685294%21ct%21UK%21-1%21%211%210&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22pdpBusinessMode%22%3A%22retail%22%7D%7D
+Push Button,6x6x6mm,For the reset function,1,£0.74,£2.16,,https://www.aliexpress.com/item/4001224103835.html?spm=a2g0o.cart.0.0.2f3538daCbb432&mp=1&pdp_npi=5%40dis%21GBP%21GBP%200.87%21GBP%200.74%21%21GBP%200.74%21%21%21%40211b612517539804569748830ea9fd%2110000015354836216%21ct%21UK%21-1%21%211%210
+Total (AliExpress),,,,£29.68,Included on ze left!,,
+,,,,,,,
+150mAh 3.7V LiPo Battery,,"I promise, I could find NO batteries on AliExpress that didn't ship in September / around August 30th ;-; (thats still 150mAh, JST connector, right voltage, etc).",1,£4.50,£3.90,PiHut,https://thepihut.com/products/150mah-3-7v-lipo-battery?variant=42388690993347
+Total (PiHut),,,,£8.40,,,
+,,,,,,,
+Comus Neodynium Magnet,3 by 4mm,"Again, AliExpress shipping is atrocious on this front.",1,£2.18,£3.30 + £1.10 (last one is VAT),Rapid Electronics (UK Based iirc),https://www.rapidonline.com/comus-m1219-3-neodynium-disc-magnet-78-1068
+,,,,£6.58,,,
+,,,,,,,
+PCB,,,1,£1.51,£1.13,JLCPCB,
+,,,,£2.64,,,
+,,,,,,,
+TOTAL,,,,£47.3,,,

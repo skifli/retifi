@@ -1,6 +1,6 @@
-# Retini
+# Retifi
 
-- [Retini](#retini)
+- [Retifi](#retifi)
   - [Journal](#journal)
   - [PCB](#pcb)
     - [Schematic](#schematic)

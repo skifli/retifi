@@ -1,0 +1,5 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"CN1, CN2",JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal,2,~,
+J1,OLED_128x64,1,OLED_128x64,
+SW1,Generic 2 Pin Horizontal,1,SW_Push,
+U1,Nice_Nano_V2,1,Nice_Nano_V2,
